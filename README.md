@@ -1,4 +1,4 @@
-## ** WWDC22 Swift Student Challenge Winner! - Flip The Cup [Submitted]**
+## ** WWDC22 Swift Student Challenge Winner! - Flip The Cup [Accepted]**
 
 # Flip The Cup
 You must have heard about flip the cup challenge. What if we give you a platform to enjoy the same kind of vibe. With our ‘Flip the cup’ game, you can enjoy the most realistic game you would have ever played on your iOS devices. This game comes with AR kit technology which surpasses your imagination towards a game. This game comes with 3D model experience that keeps you on the edge of the seat for every jump you make to advance in the game. You are just a tap away to move into this AR powered game. 
@@ -26,7 +26,7 @@ You must have heard about flip the cup challenge. What if we give you a platform
  * Run the app - Steps are mentioned above.
  * If you face issues in any step open a new issue.
  * To fix issues: Fork this repository, make your changes and make a Pull Request.
-
+ 
 ## Support
 
 <!-- [![IMAGE ALT TEXT HERE](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg)](https://www.buymeacoffee.com/thecodexpose) -->
