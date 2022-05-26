@@ -20,7 +20,7 @@ You must have heard about flip the cup challenge. What if we give you a platform
  * Scoring of game is when you flip the cup and landed to the box you got 1 point then points get increasing, TRY NOT TO MISS and if you missed then you will lose the game.
 
 ## Project Video
-<!-- [![IMAGE ALT TEXT HERE](https://i.pinimg.com/564x/e7/95/9f/e7959fca05b2e40cfcd5e0de9dede6b8.jpg)](https://youtu.be/HUsIX_9uMKU) -->
+[![IMAGE ALT TEXT HERE](https://github.com/Ayush21082/Flip-The-Cup/blob/main/Banner.png)](https://github.com/Ayush21082/Flip-The-Cup/blob/main/demo1.mp4)
 
  ## How to Contribute 🖋 ##
  * Run the app - Steps are mentioned above.
