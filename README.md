@@ -9,6 +9,9 @@ You must have heard about flip the cup challenge. What if we give you a platform
 <img alt="iOS" src="https://img.shields.io/badge/iOS-13-orange">
 </p>
 
+## Submission Status
+<img src="https://github.com/Ayush21082/Flip-The-Cup/blob/main/Submission%20Status.jpg" height=400>
+
 ## Technologies I used
 `Swift` `Augmented Reality` `SceneKit` `SwiftUI` `UIKit`
 
